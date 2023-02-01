@@ -1,0 +1,15 @@
+/Users/adrianaalcocer/Desktop/Deliverable 3 - Iterative Statement/Deliverable 3 - Iterative Statement/bin/Debug/net6.0/Deliverable 3 - Iterative Statement
+/Users/adrianaalcocer/Desktop/Deliverable 3 - Iterative Statement/Deliverable 3 - Iterative Statement/bin/Debug/net6.0/Deliverable 3 - Iterative Statement.deps.json
+/Users/adrianaalcocer/Desktop/Deliverable 3 - Iterative Statement/Deliverable 3 - Iterative Statement/bin/Debug/net6.0/Deliverable 3 - Iterative Statement.runtimeconfig.json
+/Users/adrianaalcocer/Desktop/Deliverable 3 - Iterative Statement/Deliverable 3 - Iterative Statement/bin/Debug/net6.0/Deliverable 3 - Iterative Statement.dll
+/Users/adrianaalcocer/Desktop/Deliverable 3 - Iterative Statement/Deliverable 3 - Iterative Statement/bin/Debug/net6.0/Deliverable 3 - Iterative Statement.pdb
+/Users/adrianaalcocer/Desktop/Deliverable 3 - Iterative Statement/Deliverable 3 - Iterative Statement/obj/Debug/net6.0/Deliverable 3 - Iterative Statement.csproj.AssemblyReference.cache
+/Users/adrianaalcocer/Desktop/Deliverable 3 - Iterative Statement/Deliverable 3 - Iterative Statement/obj/Debug/net6.0/Deliverable 3 - Iterative Statement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianaalcocer/Desktop/Deliverable 3 - Iterative Statement/Deliverable 3 - Iterative Statement/obj/Debug/net6.0/Deliverable 3 - Iterative Statement.AssemblyInfoInputs.cache
+/Users/adrianaalcocer/Desktop/Deliverable 3 - Iterative Statement/Deliverable 3 - Iterative Statement/obj/Debug/net6.0/Deliverable 3 - Iterative Statement.AssemblyInfo.cs
+/Users/adrianaalcocer/Desktop/Deliverable 3 - Iterative Statement/Deliverable 3 - Iterative Statement/obj/Debug/net6.0/Deliverable 3 - Iterative Statement.csproj.CoreCompileInputs.cache
+/Users/adrianaalcocer/Desktop/Deliverable 3 - Iterative Statement/Deliverable 3 - Iterative Statement/obj/Debug/net6.0/Deliverable 3 - Iterative Statement.dll
+/Users/adrianaalcocer/Desktop/Deliverable 3 - Iterative Statement/Deliverable 3 - Iterative Statement/obj/Debug/net6.0/refint/Deliverable 3 - Iterative Statement.dll
+/Users/adrianaalcocer/Desktop/Deliverable 3 - Iterative Statement/Deliverable 3 - Iterative Statement/obj/Debug/net6.0/Deliverable 3 - Iterative Statement.pdb
+/Users/adrianaalcocer/Desktop/Deliverable 3 - Iterative Statement/Deliverable 3 - Iterative Statement/obj/Debug/net6.0/Deliverable 3 - Iterative Statement.genruntimeconfig.cache
+/Users/adrianaalcocer/Desktop/Deliverable 3 - Iterative Statement/Deliverable 3 - Iterative Statement/obj/Debug/net6.0/ref/Deliverable 3 - Iterative Statement.dll
